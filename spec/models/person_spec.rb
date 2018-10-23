@@ -1,5 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Person, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  subject { build(:person) }
+
+  it { should validate_presence_of(:name) }
 end
