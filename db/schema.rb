@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_23_183444) do
+ActiveRecord::Schema.define(version: 2018_10_30_180620) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plperl"
@@ -27,7 +27,9 @@ ActiveRecord::Schema.define(version: 2018_10_23_183444) do
     t.string "name", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "xml_feed_url", null: false
     t.index ["name"], name: "index_shows_on_name", unique: true
+    t.index ["xml_feed_url"], name: "index_shows_on_xml_feed_url", unique: true
   end
 
   create_table "users", force: :cascade do |t|
