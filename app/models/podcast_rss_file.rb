@@ -9,9 +9,9 @@ class PodcastRSSFile
   end
 
   def consume!
-    episodes.each do |item|
+    episodes.each do |episode|
       @show.episodes.create!(
-        name: item.css('title').first.content
+        name: episode.css('title').first.content
       )
     end
   end
