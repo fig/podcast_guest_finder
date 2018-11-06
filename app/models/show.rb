@@ -1,4 +1,5 @@
 class Show < ApplicationRecord
+  has_many :episodes
   validates :name, presence: true
   validates :xml_feed_url,
     presence: true,

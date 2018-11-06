@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://rss.simplecast.com/podcasts/5739/rss" title="MP3 Audio"/>
+    <title>The Ruby Testing Podcast</title>
+    <generator>https://simplecast.com</generator>
+    <description>On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests.</description>
+    <language>en</language>
+    <pubDate>Thu, 18 Oct 2018 11:00:00 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 02:43:39 -0400</lastBuildDate>
+    <link>https://www.codewithjason.com</link>
+    <image>
+      <url>https://media.simplecast.com/podcast/image/5739/1526418356-artwork.jpg</url>
+      <title>The Ruby Testing Podcast</title>
+      <link>https://www.codewithjason.com</link>
+    </image>
+    <itunes:new-feed-url>https://rss.simplecast.com/podcasts/5739/rss</itunes:new-feed-url>
+    <itunes:author>Jason Swett</itunes:author>
+    <itunes:image href="https://media.simplecast.com/podcast/image/5739/1526418356-artwork.jpg"/>
+    <itunes:summary>On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests.</itunes:summary>
+    <itunes:subtitle>On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests..</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>ruby testing, ruby on rails testing</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Jason Swett</itunes:name>
+      <itunes:email>jason@codewithjason.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <item>
+      <title>015 - Testing Q&amp;A with Listener Andrew Mason</title>
+      <guid isPermaLink="false">2ee62a3f-2f7a-4986-bbe5-c4a2e5118689</guid>
+      <link>http://www.rubytestingpodcast.com/andrew-mason</link>
+      <description>Listener and junior Rails developer Andrew Mason comes on the show to ask some questions about Rails testing. We discuss the difference between function/integration/unit tests, system tests vs. feature specs, some good testing books to read, and more.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Listener and junior Rails developer Andrew Mason comes on the show to ask some questions about Rails testing. We discuss the difference between function/integration/unit tests, system tests vs. feature specs, some good testing books to read, and more.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://www.onshorestudios.com/">Onshore Studios</a></li>
+<li><a href="https://twitter.com/andrewmcodes">Andrew Mason on Twitter</a></li>
+<li><a href="https://www.codewithjason.com/workshops/">Jason's Rails testing workshops</a></li>
+<li><a href="http://blog.codepipes.com/testing/software-testing-antipatterns.html">Software Testing Anti-Patterns</a></li>
+<li><a href="https://github.com/vcr/vcr">VCR</a></li>
+<li><a href="https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0">Continuous Delivery</a></li>
+<li><a href="https://medium.com/table-xi/a-quick-guide-to-rails-system-tests-in-rspec-b6e9e8a8b5f6">System Tests</a></li>
+<li><a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627">Growing Object-Oriented Software, Guided by Tests</a></li>
+<li><a href="http://www.poodr.com/">Practical Object-Oriented Design, An Agile Primer Using Ruby</a></li>
+<li><a href="https://www.amazon.com/FEATHERS-WORK-EFFECT-LEG-CODE/dp/0131177052">Working Effectively with Legacy Code</a></li>
+<li><a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></li>
+<li><a href="https://pragprog.com/book/nrtest3/rails-5-test-prescriptions">Rails 5 Test Prescriptions</a></li>
+<li><a href="https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054">xUnit Test Patterns: Refactoring Test Code</a></li>
+<li><a href="https://chriskottom.com/minitestcookbook/">Minitest Cookbook</a></li>
+<li><a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592">The Phoenix Project</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 18 Oct 2018 11:00:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/93bc1bbc.mp3" length="56436716" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/216004/1539878372-artwork.jpg"/>
+      <itunes:duration>00:58:43</itunes:duration>
+      <itunes:summary>Listener and junior Rails developer Andrew Mason comes on the show to ask some questions about Rails testing. We discuss the difference between function/integration/unit tests, system tests vs. feature specs, some good testing books to read, and more.
+</itunes:summary>
+      <itunes:subtitle>Listener and junior Rails developer Andrew Mason comes on the show to ask some questions about Rails testing. We discuss the difference between function/integration/unit tests, system tests vs. feature specs, some good testing books to read, and more.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>014 - Chris Oliver, Creator of GoRails</title>
+      <guid isPermaLink="false">a3f6a68c-af1f-45ad-a743-9c5581d7204c</guid>
+      <link>http://www.rubytestingpodcast.com/chris-oliver</link>
+      <description>Me and Chris touched on about a billion topics in this episode including integration tests vs. unit tests, DRY in testing, dependency injection, Cucumber, and security.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Me and Chris touched on about a billion topics in this episode including integration tests vs. unit tests, DRY in testing, dependency injection, Cucumber, and security.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://gorails.com/">GoRails</a></li>
+<li><a href="https://www.hatchbox.io/">HatchBox</a></li>
+<li><a href="https://remoteruby.transistor.fm/">Remote Ruby Podcast</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 12 Oct 2018 07:26:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/3ec1960a.mp3" length="48666019" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/211535/1539345911-artwork.jpg"/>
+      <itunes:duration>00:50:38</itunes:duration>
+      <itunes:summary>Me and Chris touched on about a billion topics in this episode including integration tests vs. unit tests, DRY in testing, dependency injection, Cucumber, and security.
+</itunes:summary>
+      <itunes:subtitle>Me and Chris touched on about a billion topics in this episode including integration tests vs. unit tests, DRY in testing, dependency injection, Cucumber, and security.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>013 - The Balance Between Testing and Feature Development with Dave Kimura</title>
+      <guid isPermaLink="false">4f75cdb7-2628-4309-a82b-2db9a9af086c</guid>
+      <link>http://www.rubytestingpodcast.com/dave-kimura</link>
+      <description>Building features and writing tests are often seen as competing with one another. How do you balance the two? Dave Kimura and I discuss.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Building features and writing tests are often seen as competing with one another. How do you balance the two? Dave Kimura and I discuss.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://twitter.com/kobaltz">Dave Kimura on Twitter</a></li>
+<li><a href="https://www.driftingruby.com/">Drifting Ruby</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 03 Oct 2018 09:24:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/c1610d62.mp3" length="44374414" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/205931/1538575233-artwork.jpg"/>
+      <itunes:duration>00:46:09</itunes:duration>
+      <itunes:summary>Building features and writing tests are often seen as competing with one another. How do you balance the two? Dave Kimura and I discuss.
+</itunes:summary>
+      <itunes:subtitle>Building features and writing tests are often seen as competing with one another. How do you balance the two? Dave Kimura and I discuss.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>012 - Refactoring Legacy Projects and Test Suites with John Cech</title>
+      <guid isPermaLink="false">929d6631-ddb2-44d9-a6df-a1c0973b1c77</guid>
+      <link>http://www.rubytestingpodcast.com/john-cech</link>
+      <description>I talk with John Cech of Planet Argon about refactoring legacy Rails projects and legacy test suites.
+</description>
+      <content:encoded>
+        <![CDATA[<p>I talk with John Cech of Planet Argon about refactoring legacy Rails projects and legacy test suites.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://www.planetargon.com/">Planet Argon</a></li>
+<li><a href="https://www.amazon.com/FEATHERS-WORK-EFFECT-LEG-CODE/dp/0131177052">Working Effectively with Legacy Code</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 26 Sep 2018 10:34:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/2d831031.mp3" length="46836612" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/202674/1537972798-artwork.jpg"/>
+      <itunes:duration>00:48:43</itunes:duration>
+      <itunes:summary>I talk with John Cech of Planet Argon about refactoring legacy Rails projects and legacy test suites.
+</itunes:summary>
+      <itunes:subtitle>I talk with John Cech of Planet Argon about refactoring legacy Rails projects and legacy test suites.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>011 - How Jason Charnes Got Started with Testing</title>
+      <guid isPermaLink="false">8b376d5a-7948-4f92-bdbe-6d831794bf09</guid>
+      <link>http://www.rubytestingpodcast.com/jason-charnes</link>
+      <description>In this episode I talk with Jason Charnes, organizer of the Southeast Ruby conference and co-host of the Remote Ruby podcast, about how he got started with testing.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Jason Charnes, organizer of the Southeast Ruby conference and co-host of the Remote Ruby podcast, about how he got started with testing.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://southeastruby.com/">Southeast Ruby</a></li>
+<li><a href="https://remoteruby.transistor.fm/">Remote Ruby podcast</a></li>
+<li><a href="https://twitter.com/jmcharnes?lang=en">Jason Charnes on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 19 Sep 2018 08:03:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/528ae73d.mp3" length="55036135" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/199718/1537359945-artwork.jpg"/>
+      <itunes:duration>00:57:16</itunes:duration>
+      <itunes:summary>In this episode I talk with Jason Charnes, organizer of the Southeast Ruby conference and co-host of the Remote Ruby podcast, about how he got started with testing.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Jason Charnes, organizer of the Southeast Ruby conference and co-host of the Remote Ruby podcast, about how he got started with testing.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>010 - Selenium and QA with Zach Attas</title>
+      <guid isPermaLink="false">5fe74c8d-b13f-4bc7-8d0a-943efa104b50</guid>
+      <link>http://www.rubytestingpodcast.com/zach-attas</link>
+      <description>In this episode I talk with Zach Attas, Senior Test Engineer, about QA, Selenium, SitePrism and a number of other things.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Zach Attas, Senior Test Engineer, about QA, Selenium, SitePrism and a number of other things.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="http://www.obeythetestinggoat.com">Obey the Testing Goat</a></li>
+<li><a href="https://www.udacity.com/course/software-testing--cs258">Udacity course on software testing</a></li>
+<li><a href="http://zattas.me">Zach's personal website</a></li>
+<li><a href="https://www.youtube.com/watch?v=waK2Y90B7_0">SeleniumConf India 2018 talk</a></li>
+<li><a href="https://seleniumhq.github.io/docs">Selenium</a></li>
+<li><a href="http://teamcapybara.github.io/capybara">Capybara</a></li>
+<li><a href="https://www.rubydoc.info/gems/site_prism">SitePrism</a></li>
+<li><a href="https://www.reviewtrackers.com">ReviewTrackers</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 12 Sep 2018 09:26:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/f8776f8c.mp3" length="44193856" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/195057/1536674695-artwork.jpg"/>
+      <itunes:duration>00:45:58</itunes:duration>
+      <itunes:summary>In this episode I talk with Zach Attas, Senior Test Engineer, about QA, Selenium, SitePrism and a number of other things.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Zach Attas, Senior Test Engineer, about QA, Selenium, SitePrism and a number of other things.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>009 - Testing a Ruby Gem with Josh Wood of Honeybadger</title>
+      <guid isPermaLink="false">c2ec1aef-bec5-4f13-ae2a-a12a922b11e9</guid>
+      <link>http://www.rubytestingpodcast.com/josh-wood</link>
+      <description>In this episode I talk with Josh about the process of building the honeybadger-ruby gem and what was involved in testing it.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Josh about the process of building the honeybadger-ruby gem and what was involved in testing it.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://www.honeybadger.io/">Honeybadger</a></li>
+<li><a href="https://twitter.com/joshuap">Josh on Twitter</a></li>
+<li><a href="http://joshuawood.net/">Josh's personal site</a></li>
+<li><a href="https://github.com/honeybadger-io/honeybadger-ruby">honeybadger-ruby gem</a></li>
+<li><a href="https://www.upgraderails.com/">UpgradeRails.com</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 06 Sep 2018 09:39:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/fd8a9290.mp3" length="41528112" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/192993/1536241866-artwork.jpg"/>
+      <itunes:duration>00:43:12</itunes:duration>
+      <itunes:summary>In this episode I talk with Josh about the process of building the honeybadger-ruby gem and what was involved in testing it.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Josh about the process of building the honeybadger-ruby gem and what was involved in testing it.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>008 - Adam Hawkins - Where, What and How to Test</title>
+      <guid isPermaLink="false">89b1c2a3-dccd-487b-8287-fe7bff107caa</guid>
+      <link>http://www.rubytestingpodcast.com/adam-hawkins</link>
+      <description>Me and Adam Hawkins talk about where, what and how to test. Adam brought up some interesting ideas I hadn't thought about before including not only testing your code but testing your deployment pipeline.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Me and Adam Hawkins talk about where, what and how to test. Adam brought up some interesting ideas I hadn't thought about before including not only testing your code but testing your deployment pipeline.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://medium.com/slashdeploy">Adam's blog</a></li>
+<li><a href="https://slashdeploy.com">Adam's website</a></li>
+<li><a href="http://hawkins.io/2014/01/rediscovering-the-joy-of-design/">Rediscovering the joy of design</a></li>
+<li><a href="http://hawkins.io/2015/06/replacing-rake-with-make/">Developing with Rake &amp; Docker</a></li>
+<li><a href="https://teamci.co">TeamCI</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 29 Aug 2018 16:11:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/ae12a65d.mp3" length="34390623" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/188709/1535573898-artwork.jpg"/>
+      <itunes:duration>00:35:46</itunes:duration>
+      <itunes:summary>Me and Adam Hawkins talk about where, what and how to test. Adam brought up some interesting ideas I hadn't thought about before including not only testing your code but testing your deployment pipeline.
+</itunes:summary>
+      <itunes:subtitle>Me and Adam Hawkins talk about where, what and how to test. Adam brought up some interesting ideas I hadn't thought about before including not only testing your code but testing your deployment pipeline.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>007 - Testing Anti-Patterns with Kostis Kapelonis</title>
+      <guid isPermaLink="false">3e93a9b3-df31-4ce0-aa79-eef823051ed8</guid>
+      <link>http://www.rubytestingpodcast.com/kostis-kapelonis</link>
+      <description>Kostis Kapelonis and I talk about some of the testing anti-patterns he discusses in his comprehensive article, Software Testing Anti-patterns.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Kostis Kapelonis and I talk about some of the testing anti-patterns he discusses in his comprehensive article, Software Testing Anti-patterns.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="http://blog.codepipes.com/testing/software-testing-antipatterns.html">Software Testing Anti-patterns</a></li>
+<li><a href="http://blog.codepipes.com/">Kostis' Codepipes Blog</a></li>
+<li><a href="https://twitter.com/codepipes">Kostis Kapelonis on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 21 Aug 2018 16:50:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/3999d6f8.mp3" length="42838414" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/186053/1534885130-artwork.jpg"/>
+      <itunes:duration>00:44:33</itunes:duration>
+      <itunes:summary>Kostis Kapelonis and I talk about some of the testing anti-patterns he discusses in his comprehensive article, Software Testing Anti-patterns.
+</itunes:summary>
+      <itunes:subtitle>Kostis Kapelonis and I talk about some of the testing anti-patterns he discusses in his comprehensive article, Software Testing Anti-patterns.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>006 - Continuous Integration/Deployment/Delivery with Marko Anastasov</title>
+      <guid isPermaLink="false">bf5dc1e7-0517-4a01-8d44-cd7e6f1af122</guid>
+      <link>http://www.rubytestingpodcast.com/marko-anastasov</link>
+      <description>I talk with Semaphore CI Co-Founder Marko Anastasov about how he got started with programming and testing. We also talk about Continuous Integration, Continuous Deployment, Continuous Delivery and the difference among the three.
+</description>
+      <content:encoded>
+        <![CDATA[<p>I talk with Semaphore CI Co-Founder Marko Anastasov about how he got started with programming and testing. We also talk about Continuous Integration, Continuous Deployment, Continuous Delivery and the difference among the three.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://twitter.com/markoa?lang=en&amp;lang=en">Marko on Twitter</a></li>
+<li><a href="https://semaphoreci.com/">Semaphore CI</a></li>
+<li><a href="https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912">Continuous Delivery book</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 13 Aug 2018 11:19:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/3dba1827.mp3" length="60999577" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/182311/1534174000-artwork.jpg"/>
+      <itunes:duration>01:03:29</itunes:duration>
+      <itunes:summary>I talk with Semaphore CI Co-Founder Marko Anastasov about how he got started with programming and testing. We also talk about Continuous Integration, Continuous Deployment, Continuous Delivery and the difference among the three.
+</itunes:summary>
+      <itunes:subtitle>I talk with Semaphore CI Co-Founder Marko Anastasov about how he got started with programming and testing. We also talk about Continuous Integration, Continuous Deployment, Continuous Delivery and the difference among the three.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>005 - How Brittany Martin Got Started with Programming and Testing</title>
+      <guid isPermaLink="false">93487322-5e54-4816-bb0b-62a538558fde</guid>
+      <link>http://www.rubytestingpodcast.com/brittany-martin</link>
+      <description>In this episode I talk with Brittany Martin, co-host of the Ruby on Rails Podcast, about her career story and how she got started with Ruby testing.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Brittany Martin, co-host of the Ruby on Rails Podcast, about Brittany's career story and how she got started with Ruby testing. We also talked about remote work and speaking at conference. Things we touched on:</p>
+
+<ul>
+<li><a href="http://5by5.tv/rubyonrails">Ruby on Rails Podcast</a></li>
+<li><a href="https://trustarts.org/">Pittsburg Cultural Trust</a></li>
+<li><a href="https://southeastruby.com/">Southeast Ruby conference</a></li>
+<li><a href="https://rubyconf.my/">RubyConf MY conference</a></li>
+<li><a href="https://twitter.com/BrittJMartin">Brittany on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 01 Aug 2018 14:25:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/c6625760.mp3" length="43742042" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/172411/1532544741-artwork.jpg"/>
+      <itunes:duration>00:45:30</itunes:duration>
+      <itunes:summary>In this episode I talk with Brittany Martin, co-host of the Ruby on Rails Podcast, about her career story and how she got started with Ruby testing.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Brittany Martin, co-host of the Ruby on Rails Podcast, about her career story and how she got started with Ruby testing.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>004 - Test-Driven Design with Yoseph Radding</title>
+      <guid isPermaLink="false">3123ac0e-69fe-47be-b110-7e725e3a37c8</guid>
+      <link>http://www.rubytestingpodcast.com/yoseph-radding</link>
+      <description>In this episode Yoseph and I talk about test-driven design.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode Yoseph and I talk about test-driven design. Things we touched on:</p>
+
+<ul>
+<li>Yoseph's blog post, <a href="http://yoseph.tech/lets-change-how-we-speak-about-testing/">From Test Driven Development to Test Driven Design</a></li>
+<li><a href="http://yoseph.tech/">Yoseph's website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SOLID">SOLID principles</a></li>
+<li><a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=mt_hardcover?_encoding=UTF8&amp;me=&amp;qid=">Design Patterns: Elements of Reusable Object-Oriented Software</a></li>
+<li><a href="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1532542331&amp;sr=1-3&amp;keywords=patterns+of+enterprise+application+architecture">Patterns of Enterprise Application Architecture</a></li>
+<li><a href="https://martinfowler.com/">Martin Fowler</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 25 Jul 2018 13:52:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/6081e01c.mp3" length="41155711" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/172398/1532542406-artwork.jpg"/>
+      <itunes:duration>00:42:48</itunes:duration>
+      <itunes:summary>In this episode Yoseph and I talk about test-driven design.
+</itunes:summary>
+      <itunes:subtitle>In this episode Yoseph and I talk about test-driven design.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>003 - Aaron Sumner, Author of Everyday Rails Testing with RSpec</title>
+      <guid isPermaLink="false">31d0a10e-eb59-4292-88aa-e108213057d1</guid>
+      <link>http://www.rubytestingpodcast.com/aaron-sumner</link>
+      <description>In this episode I interview Aaron Sumner, author of Everyday Rails Testing with RSpec.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I interview Aaron Sumner, author of Everyday Rails Testing with RSpec.</p>
+
+<p>Things we touched on:</p>
+
+<ul>
+<li><a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></li>
+<li><a href="https://pragprog.com/book/achbd/the-rspec-book">The RSpec Book</a></li>
+<li><a href="https://pragprog.com/book/nrtest3/rails-5-test-prescriptions">Rails 5 Test Prescriptions</a></li>
+<li><a href="http://guides.rubyonrails.org/rails_application_templates.html">Rails Application Templates</a></li>
+<li><a href="http://www.rubyflow.com/">RubyFlow</a></li>
+<li><a href="https://weblog.rubyonrails.org/">Ruby on Rails blog</a></li>
+<li><a href="https://groups.google.com/forum/#!forum/rspec">RSpec Google Group</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Jul 2018 12:53:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/721e849f.mp3" length="46994601" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/169295/1531846939-artwork.jpg"/>
+      <itunes:duration>00:48:53</itunes:duration>
+      <itunes:summary>In this episode I interview Aaron Sumner, author of Everyday Rails Testing with RSpec.
+</itunes:summary>
+      <itunes:subtitle>In this episode I interview Aaron Sumner, author of Everyday Rails Testing with RSpec.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>002 - Noel Rappin, Author of Rails 5 Test Prescriptions</title>
+      <guid isPermaLink="false">20223cda-53ed-47c6-b5fb-9d2b0be06c39</guid>
+      <link>http://www.rubytestingpodcast.com/d956650c</link>
+      <description>In this episode I talk with Noel Rappin, author of Rails 5 Test Prescriptions, about how Noel got started in testing in the early 2000s, how Noel approaches unit tests vs. integration tests, testing JavaScript code in a Rails environment, as well as a number of other topics.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Noel Rappin, author of Rails 5 Test Prescriptions, about how Noel got started in testing in the early 2000s, how Noel approaches unit tests vs. integration tests, testing JavaScript code in a Rails environment, as well as a number of other topics.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="http://www.noelrappin.com/">Noel Rappin's website</a></li>
+<li><a href="https://pragprog.com/book/nrtest3/rails-5-test-prescriptions">Rails 5 Test Prescriptions</a></li>
+<li><a href="http://www.techdoneright.io/">Tech Done Right</a></li>
+<li><a href="https://testdouble.com/">Test Double</a></li>
+<li><a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627">Growing Object-Oriented Software, Guided by Tests</a></li>
+<li><a href="https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658">Extreme Programming Explained</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 01 Jun 2018 15:37:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/d956650c.mp3" length="37083952" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/152136/1527882229-artwork.jpg"/>
+      <itunes:duration>00:38:34</itunes:duration>
+      <itunes:summary>In this episode I talk with Noel Rappin, author of Rails 5 Test Prescriptions, about how Noel got started in testing in the early 2000s, how Noel approaches unit tests vs. integration tests, testing JavaScript code in a Rails environment, as well as a number of other topics.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Noel Rappin, author of Rails 5 Test Prescriptions, about how Noel got started in testing in the early 2000s, how Noel approaches unit tests vs. integration tests, testing JavaScript code in a Rails environment, as well as a num</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>001 - How Todd Siegel Got Started with Testing</title>
+      <guid isPermaLink="false">e33c7ded-cb2b-490b-a6af-952dd006ae55</guid>
+      <link>http://www.rubytestingpodcast.com/128a29bb</link>
+      <description>In this episode I talk with Todd Siegel, freelance developer from Denver, about how Todd got started in testing, how testing saves development time, how we approach writing tests for a fresh Rails project, and RSpec vs. other testing frameworks.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In this episode I talk with Todd Siegel, freelance developer from Denver, about how Todd got started in testing, how testing saves development time, how we approach writing tests for a fresh Rails project, and RSpec vs. other testing frameworks.</p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="https://twitter.com/_toddsiegel">Todd Siegel on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 15 May 2018 17:06:00 -0400</pubDate>
+      <author>jason@codewithjason.com (Jason Swett)</author>
+      <enclosure url="https://audio.simplecast.com/128a29bb.mp3" length="36920112" type="audio/mpeg"/>
+      <itunes:author>Jason Swett</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/146120/1527891182-artwork.jpg"/>
+      <itunes:duration>00:38:24</itunes:duration>
+      <itunes:summary>In this episode I talk with Todd Siegel, freelance developer from Denver, about how Todd got started in testing, how testing saves development time, how we approach writing tests for a fresh Rails project, and RSpec vs. other testing frameworks.
+</itunes:summary>
+      <itunes:subtitle>In this episode I talk with Todd Siegel, freelance developer from Denver, about how Todd got started in testing, how testing saves development time, how we approach writing tests for a fresh Rails project, and RSpec vs. other testing frameworks.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
