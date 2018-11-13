@@ -6,6 +6,19 @@ RSpec.describe Show, type: :model do
   it { should validate_presence_of(:name) }
   it { should validate_presence_of(:xml_feed_url) }
 
+  describe 'XML feed parsing' do
+    it 'gets parsed upon show creation' do
+      show = Show.new(
+        name: 'The Tim Ferriss Show',
+        xml_feed_url: 'https://rss.art19.com/tim-ferriss-show'
+      )
+
+      expect { show.save_and_parse! }.to change {
+        show.episodes.count
+      }.from(0).to(349)
+    end
+  end
+
   describe 'xml_feed_url validity' do
     describe 'invalid URL' do
       before do
