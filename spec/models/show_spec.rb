@@ -7,15 +7,23 @@ RSpec.describe Show, type: :model do
   it { should validate_presence_of(:xml_feed_url) }
 
   describe 'XML feed parsing' do
-    it 'gets parsed upon show creation' do
-      show = Show.new(
-        name: 'The Tim Ferriss Show',
-        xml_feed_url: 'https://rss.art19.com/tim-ferriss-show'
-      )
+    let(:filename) do
+      Rails.root.join('spec', 'files', 'ruby_testing_podcast.xml')
+    end
 
-      expect { show.save_and_parse! }.to change {
+    let(:xml_feed_contents) { File.read(filename) }
+
+    let(:show) do
+      Show.new(
+        name: 'The Ruby Testing Podcast',
+        xml_feed_url: 'https://example.com/rss'
+      )
+    end
+
+    it 'gets parsed upon show creation' do
+      expect { show.save_and_parse!(xml_feed_contents) }.to change {
         show.episodes.count
-      }.from(0).to(349)
+      }.from(0).to(15)
     end
   end
 
