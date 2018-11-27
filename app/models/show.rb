@@ -5,12 +5,14 @@ class Show < ApplicationRecord
     presence: true,
     format: URI::regexp(%w(http https))
 
-  def save_and_parse!(xml_feed_contents)
-    save!
-
+  def parse_rss_file
     PodcastRSSFile.new(
       show: self,
       contents: xml_feed_contents
     ).consume!
+  end
+
+  def xml_feed_contents
+    Net::HTTP.get(URI.parse(xml_feed_url))
   end
 end
