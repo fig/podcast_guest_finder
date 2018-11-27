@@ -13,7 +13,7 @@ RSpec.feature 'Create show', type: :feature do
   end
 
   scenario 'Episode creation' do
-    visit episodes_path
+    click_on 'Episodes'
     expect(page).to have_content('How Todd Siegel Got Started with Testing')
   end
 end
