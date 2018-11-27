@@ -1,5 +1,5 @@
 class Show < ApplicationRecord
-  has_many :episodes
+  has_many :episodes, dependent: :destroy
   validates :name, presence: true
   validates :xml_feed_url,
     presence: true,
