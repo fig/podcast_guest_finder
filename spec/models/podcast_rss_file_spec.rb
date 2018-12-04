@@ -19,4 +19,17 @@ RSpec.describe PodcastRSSFile do
       Episode.exists?(name: expected_episode_name)
     }.from(false).to(true)
   end
+
+  describe 'parsed attributes' do
+    before { podcast_rss_file.consume! }
+
+    let(:episode) do
+      Episode.find_by(name: '014 - Chris Oliver, Creator of GoRails')
+    end
+
+    it 'parses attributes' do
+      expect(episode.link).to eq('http://www.rubytestingpodcast.com/chris-oliver')
+      expect(episode.description).to eq('Me and Chris touched on about a billion topics in this episode including integration tests vs. unit tests, DRY in testing, dependency injection, Cucumber, and security.')
+    end
+  end
 end
