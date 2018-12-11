@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :shows do
-    resources :episodes, only: [:index, :show]
+    resources :episodes, only: [:show]
   end
 
   devise_for :users

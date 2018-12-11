@@ -2,12 +2,6 @@ class EpisodesController < ApplicationController
   before_action :set_episode, only: [:show]
   before_action :set_show
 
-  # GET /episodes
-  # GET /episodes.json
-  def index
-    @episodes = @show.episodes
-  end
-
   # GET /episodes/1
   # GET /episodes/1.json
   def show
