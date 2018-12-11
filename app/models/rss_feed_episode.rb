@@ -11,9 +11,9 @@ class RSSFeedEpisode
     }
   end
 
-  private
-
   def content(tag)
-    @element.css(tag).first.content.strip
+    sub_element = @element.css(tag).first
+    return '' unless sub_element.present?
+    sub_element.content.strip
   end
 end
