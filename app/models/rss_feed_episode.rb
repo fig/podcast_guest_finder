@@ -7,7 +7,8 @@ class RSSFeedEpisode
     {
       name:        content('title'),
       link:        content('link'),
-      description: content('description')
+      description: content('description'),
+      show_notes:  content('content|encoded')
     }
   end
 
